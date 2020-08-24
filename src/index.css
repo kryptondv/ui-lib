@@ -2,6 +2,18 @@ body {
   font-size: 1.5rem;
 }
 
+button {
+  width: 200px;
+  background: #eee;
+  padding: 10px;
+  margin: 20px auto;
+  border: none;
+  border-radius: 4px;
+  font-size: 1em;
+  cursor: pointer;
+  display: block;
+}
+
 .container {
   margin: 40px;
   margin-top: 60px;
